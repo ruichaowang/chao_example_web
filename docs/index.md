@@ -48,7 +48,7 @@ description: 这是我的第一个 Markdown 文档网站。
 
   <section class="content-section closing-section" aria-labelledby="next-title">
     <h2 id="next-title">后续计划</h2>
-    <p>流程跑通后，再逐步加入项目文档、图片、导航与搜索。</p>
+    <p>流程跑通后，再逐步加入项目文档、图片、导航与搜索。本次更新用于验证 GitHub Pages 自动发布。</p>
   </section>
 
   <footer class="site-footer">Chao Docs · 持续更新</footer>
